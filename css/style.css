@@ -78,7 +78,11 @@ body llamado div-div, y muestra div-div2 que es un mensaje de error */
   border-bottom-right-radius: 20px;
   box-shadow: 9px 10px 15px -12px rgba(0, 0, 0, 0.85);
   -webkit-box-shadow: 9px 10px 15px -12px rgba(0, 0, 0, 0.85);
-  -moz-box-shadow: 9px 10px 15px -12px rgba(0, 0, 0, 0.85); }
+  -moz-box-shadow: 9px 10px 15px -12px rgba(0, 0, 0, 0.85);
+  margin-bottom: 20px; }
+
+main {
+  height: 70vh; }
 
 .flag-background {
   background-color: #797878; }
