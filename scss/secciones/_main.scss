@@ -3,3 +3,10 @@
     border-top-right-radius: 20px;
     border-bottom-right-radius: 20px;
 }
+
+
+@each $name-color, $bgcolor in $banderola {
+    .flag-#{$name-color}{
+        background-color: $bgcolor;
+    }
+}

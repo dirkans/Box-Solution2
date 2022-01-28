@@ -77,6 +77,21 @@ body llamado div-div, y muestra div-div2 que es un mensaje de error */
   border-top-right-radius: 20px;
   border-bottom-right-radius: 20px; }
 
+.flag-background {
+  background-color: #c2c2c2; }
+
+.flag-ar {
+  background-color: #75AADB; }
+
+.flag-gen {
+  background-color: #FFFFFF; }
+
+.flag-ti {
+  background-color: #FFFFFF; }
+
+.flag-na {
+  background-color: #75AADB; }
+
 li {
   list-style-type: none; }
   li ul {

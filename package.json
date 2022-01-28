@@ -6,7 +6,6 @@
   "name": "desafio-sass-i",
   "version": "1.0.0",
   "main": "index.js",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build-css": "node-sass --include-path scss scss/main.scss css/style.css",
@@ -14,5 +13,14 @@
   },
   "author": "Pablo Ambrosio",
   "license": "ISC",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dirkans/SASS-II-SEO.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dirkans/SASS-II-SEO/issues"
+  },
+  "homepage": "https://github.com/dirkans/SASS-II-SEO#readme",
   "description": ""
 }
