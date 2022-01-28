@@ -17,3 +17,8 @@ Mixin ubicado en /scss/variables/_mixins.scss
 Mixin usado en /scss/secciones/_main.scss dentro de la clase .card para indicar los radios de los bordes de la tarjeta.
 
 
+- Se mejoró el SEO del sitio:
+Agregando las siguientes keywords:
+"servicio, lockers, elockers, compras online, mercadolibre, paqueteria, dhl, viacargo, no pude recibir paquete"
+La siguiente description: 
+"Servicio de almacenamiento de paquetería en lockers inteligentes. Servicio novedoso e indispensable para tus compras online!!"
