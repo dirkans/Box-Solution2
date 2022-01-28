@@ -75,10 +75,13 @@ body llamado div-div, y muestra div-div2 que es un mensaje de error */
 /* Suavizando bordes de tarjetas con texto */
 .card {
   border-top-right-radius: 20px;
-  border-bottom-right-radius: 20px; }
+  border-bottom-right-radius: 20px;
+  box-shadow: 9px 10px 15px -12px rgba(0, 0, 0, 0.85);
+  -webkit-box-shadow: 9px 10px 15px -12px rgba(0, 0, 0, 0.85);
+  -moz-box-shadow: 9px 10px 15px -12px rgba(0, 0, 0, 0.85); }
 
 .flag-background {
-  background-color: #c2c2c2; }
+  background-color: #797878; }
 
 .flag-ar {
   background-color: #75AADB; }

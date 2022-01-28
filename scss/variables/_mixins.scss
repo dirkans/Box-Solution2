@@ -1,0 +1,5 @@
+@mixin card-properties($border-top-right-radius, $border-bottom-right-radius){
+    border-top-right-radius: $border-top-right-radius;
+    border-bottom-right-radius: $border-bottom-right-radius;
+
+}
